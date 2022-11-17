@@ -2,7 +2,7 @@ import telebot
 from spy import log
 from email import message
 
-TOKEN = '5503832266:AAHVuUlj6vOR8YbrgEsCrLoceCMeg9BJ2KE'
+TOKEN = '   '
 
 bot = telebot.TeleBot(TOKEN)
 
